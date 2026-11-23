@@ -3,28 +3,6 @@ name = "olist-ecommerce-lakehouse"
 version = "0.1.0"
 description = "End-to-end Databricks data engineering project"
 requires-python = ">=3.10"
-[project]
-name = "olist-ecommerce-lakehouse"
-version = "0.1.0"
-description = "End-to-end Databricks data engineering project"
-requires-python = ">=3.10"
-
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-pythonpath = ["src"]
-
-[tool.ruff]
-line-length = 100
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-pythonpath = ["src"]
-
-[tool.ruff]
-line-length = 100[project]
-name = "olist-ecommerce-lakehouse"
-version = "0.1.0"
-description = "End-to-end Databricks data engineering project"
-requires-python = ">=3.10"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
